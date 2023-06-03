@@ -124,7 +124,7 @@ export function SideBar(props: { className?: string }) {
           Build your own AI assistant.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
-            <img src="/app/icons/icon-mp.png"/>
+            <img src="https://mplatform.oss-cn-hongkong.aliyuncs.com/icon-mp.png"/>
         </div>
       </div>
 
