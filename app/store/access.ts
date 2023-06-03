@@ -25,8 +25,8 @@ let fetchState = 0; // 0 not fetch, 1 fetching, 2 done
 export const useAccessStore = create<AccessControlStore>()(
   persist(
     (set, get) => ({
-      token: "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",
-      accessCode: "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",
+      token: "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",
+      accessCode: "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",
       needCode: true,
       hideUserApiKey: false,
       openaiUrl: "/api/openai/",
