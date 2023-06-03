@@ -491,7 +491,7 @@ export function Settings() {
                 }}
               />
             </ListItem>
-          ) : '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'}
+          ) : null}
 
           <ListItem
             title={Locale.Settings.Usage.Title}
