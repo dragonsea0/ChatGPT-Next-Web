@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>My Platform GPT</div>
+        <div className={styles["sidebar-title"]}>My Platform</div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          Medical Insurance GPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
             <img src="https://mplatform.oss-cn-hongkong.aliyuncs.com/icon-mp.png"/>
